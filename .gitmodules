@@ -4,3 +4,6 @@
 [submodule "Common/IRQs"]
 	path = Common/IRQs
 	url = https://github.com/crispycookies/LENTIA-IRQs.git
+[submodule "Library/GPIO"]
+	path = Library/GPIO
+	url = https://github.com/crispycookies/LENTIA-GPIO.git
